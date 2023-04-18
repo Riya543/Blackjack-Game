@@ -17,7 +17,7 @@ let blackjackGame = {
 const YOU = blackjackGame['you']
 const DEALER = blackjackGame['dealer']
 
-// sounds
+// sounds.....
 // giving specific sounds to each thing like hit button, win, loss 
 const hitSound = new Audio('sounds/swish.m4a');
 const winSound = new Audio('sounds/cash.mp3');
